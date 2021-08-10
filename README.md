@@ -8,6 +8,7 @@ I'm Sivashanmugam. I know it's quite a tongue twister, so you can call me Shiva.
 
 In short, I'm a recent graduate from the University at Buffalo (SUNY), majoring in Engineering Science. My emphasis is on Machine Learning & Robotics.
 
+<!--
 ### Skills
 
 #### Languages & Libraries
@@ -60,8 +61,8 @@ In short, I'm a recent graduate from the University at Buffalo (SUNY), majoring 
 ![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)
 
-### Social Media
+-->
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sivashanmugam-omprakash" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sivashanmugam"/></a>
 </p>
